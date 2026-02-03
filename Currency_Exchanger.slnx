@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Currency_Exchanger/BackEnd.csproj" />
+  <Project Path="FrontEnd/FrontEnd.csproj" />
+</Solution>
